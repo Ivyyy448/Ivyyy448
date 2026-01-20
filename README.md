@@ -1,4 +1,4 @@
-<img width="1280" height="320" alt="header" src="https://github.com/user-attachments/assets/cbf7acf2-cd1a-4d7b-bcdc-005a0a29855c" />
+<img width="1280" height="320" alt="header (1)" src="https://github.com/user-attachments/assets/a075623d-506a-45b1-910b-da011780c070" />
 
 # Tagline
 Capturing stories through light and expression
